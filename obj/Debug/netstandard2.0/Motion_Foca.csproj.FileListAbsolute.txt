@@ -1,0 +1,10 @@
+C:\#Sub Disk\Motion_Foca\Motion_Foca\bin\Debug\netstandard2.0\Motion_Foca.deps.json
+C:\#Sub Disk\Motion_Foca\Motion_Foca\bin\Debug\netstandard2.0\Motion_Foca.dll
+C:\#Sub Disk\Motion_Foca\Motion_Foca\bin\Debug\netstandard2.0\Motion_Foca.pdb
+C:\#Sub Disk\Motion_Foca\Motion_Foca\obj\Debug\netstandard2.0\Motion_Foca.csproj.AssemblyReference.cache
+C:\#Sub Disk\Motion_Foca\Motion_Foca\obj\Debug\netstandard2.0\Motion_Foca.GeneratedMSBuildEditorConfig.editorconfig
+C:\#Sub Disk\Motion_Foca\Motion_Foca\obj\Debug\netstandard2.0\Motion_Foca.AssemblyInfoInputs.cache
+C:\#Sub Disk\Motion_Foca\Motion_Foca\obj\Debug\netstandard2.0\Motion_Foca.AssemblyInfo.cs
+C:\#Sub Disk\Motion_Foca\Motion_Foca\obj\Debug\netstandard2.0\Motion_Foca.csproj.CoreCompileInputs.cache
+C:\#Sub Disk\Motion_Foca\Motion_Foca\obj\Debug\netstandard2.0\Motion_Foca.dll
+C:\#Sub Disk\Motion_Foca\Motion_Foca\obj\Debug\netstandard2.0\Motion_Foca.pdb
